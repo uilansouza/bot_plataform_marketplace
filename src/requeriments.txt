@@ -1,2 +1,5 @@
 telebot
 python-dotenv==0.17.0
+watchdog
+psutil==5.9.4
+Telethon==1.28.5

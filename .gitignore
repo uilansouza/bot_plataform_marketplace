@@ -1,3 +1,8 @@
 .idea
+.vscode
 venv
 src/usecases/__pycache__/
+#file temp bot
+src/bot.session
+src/session_name.session
+
